@@ -51,7 +51,7 @@
   "devDependencies": {
     "@prettier/plugin-xml": "2.2.0",
     "@rushstack/eslint-patch": "1.2.0",
-    "@tikui/core": "3.1.0",
+    "@tikui/core": "4.0.0",
     "@types/sinon": "10.0.13",
     "@typescript-eslint/parser": "5.42.0",
     "@vitejs/plugin-vue": "3.2.0",
