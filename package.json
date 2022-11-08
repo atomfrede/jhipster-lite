@@ -53,7 +53,7 @@
     "@rushstack/eslint-patch": "1.2.0",
     "@tikui/core": "3.1.0",
     "@types/sinon": "10.0.13",
-    "@typescript-eslint/parser": "5.42.0",
+    "@typescript-eslint/parser": "5.42.1",
     "@vitejs/plugin-vue": "3.2.0",
     "@vitest/coverage-istanbul": "0.24.5",
     "@vue/eslint-config-prettier": "7.0.0",
