@@ -16,7 +16,7 @@
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.8",
-    "@types/ws": "8.5.3",
+    "@types/ws": "8.5.4",
     "@vitejs/plugin-react": "^2.0.0",
     "@vitest/coverage-istanbul": "0.25.1",
     "jsdom": "20.0.2",
