@@ -12,7 +12,7 @@
     "@testing-library/svelte": "4.0.2",
     "@typescript-eslint/eslint-plugin": "5.60.1",
     "@typescript-eslint/parser": "5.60.1",
-    "@vitest/coverage-istanbul": "0.32.2",
+    "@vitest/coverage-istanbul": "0.34.1",
     "babel-plugin-transform-vite-meta-env": "1.0.3",
     "eslint": "8.43.0",
     "eslint-config-prettier": "8.8.0",
