@@ -25,7 +25,7 @@
     "autoprefixer": "10.4.16",
     "eslint": "8.56.0",
     "eslint-plugin-react": "7.33.2",
-    "jsdom": "23.2.0",
+    "jsdom": "24.0.0",
     "postcss": "8.4.33",
     "react-scripts": "5.0.1",
     "sass": "1.69.7",
