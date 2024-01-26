@@ -52,7 +52,7 @@
     <thymeleaf-layout-dialect.version>3.3.0</thymeleaf-layout-dialect.version>
     <webjars-locator.version>0.50</webjars-locator.version>
     <htmx-webjars.version>1.9.10</htmx-webjars.version>
-    <alpinejs-webjars.version>3.13.3</alpinejs-webjars.version>
+    <alpinejs-webjars.version>3.13.5</alpinejs-webjars.version>
     <os-maven-plugin.version>1.7.1</os-maven-plugin.version>
   </properties>
 
