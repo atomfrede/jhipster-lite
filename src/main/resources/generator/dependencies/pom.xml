@@ -41,7 +41,7 @@
     <assertj.version>3.25.3</assertj.version>
     <mockito.version>5.11.0</mockito.version>
     <cassandraunit.version>4.3.1.0</cassandraunit.version>
-    <testcontainers.version>1.19.6</testcontainers.version>
+    <testcontainers.version>1.19.7</testcontainers.version>
     <archunit-junit5.version>1.2.1</archunit-junit5.version>
     <cucumber.version>7.15.0</cucumber.version>
     <!-- Maven Plugins -->
