@@ -11,6 +11,6 @@ FROM mcr.microsoft.com/mssql/server:2017-latest
 FROM postgres:16.2
 FROM apache/kafka:3.7.0
 FROM tchiotludo/akhq:0.24.0
-FROM apachepulsar/pulsar:3.2.2
+FROM apachepulsar/pulsar:3.2.3
 FROM neo4j:5.19.0-community
 FROM redis:7.2.4
