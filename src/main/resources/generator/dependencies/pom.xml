@@ -34,7 +34,7 @@
     <webjars-locator.version>0.52</webjars-locator.version>
     <htmx-webjars.version>1.9.12</htmx-webjars.version>
     <alpinejs-webjars.version>3.13.10</alpinejs-webjars.version>
-    <protobuf.version>4.27.0</protobuf.version>
+    <protobuf.version>4.27.3</protobuf.version>
     <proto-backwards-compatibility.version>1.0.7</proto-backwards-compatibility.version>
     <!-- Test dependencies -->
     <junit-jupiter.version>5.10.2</junit-jupiter.version>
